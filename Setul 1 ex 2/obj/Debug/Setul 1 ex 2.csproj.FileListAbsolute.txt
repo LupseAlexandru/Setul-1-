@@ -1,7 +1,0 @@
-D:\C# first year\Setul 1 ex 2\bin\Debug\Setul 1 ex 2.exe.config
-D:\C# first year\Setul 1 ex 2\bin\Debug\Setul 1 ex 2.exe
-D:\C# first year\Setul 1 ex 2\bin\Debug\Setul 1 ex 2.pdb
-D:\C# first year\Setul 1 ex 2\obj\Debug\Setul 1 ex 2.csproj.AssemblyReference.cache
-D:\C# first year\Setul 1 ex 2\obj\Debug\Setul 1 ex 2.csproj.CoreCompileInputs.cache
-D:\C# first year\Setul 1 ex 2\obj\Debug\Setul 1 ex 2.exe
-D:\C# first year\Setul 1 ex 2\obj\Debug\Setul 1 ex 2.pdb
